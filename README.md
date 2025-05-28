@@ -1,7 +1,7 @@
 # Hands-on-UI-UX-Experiments
 
-# Name: Pranav Krishna T
-# Reg No:212224040241
+# Name: steve nittin sylus
+# Reg No:212224040331
 
 A curated collection of practical UI/UX experiments aimed at improving design thinking, prototyping skills, usability testing, and accessibility awareness.
 
